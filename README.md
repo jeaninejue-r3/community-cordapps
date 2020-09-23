@@ -12,9 +12,7 @@ These projects are built and maintained by the Corda Developer Community. All of
 ## Table of Content 
 
 * [Decentralized Corpus Manager](https://github.com/JonathanScialpi/decentralized_corpus_manager): Machine Learning on Corda by Jonathan Scialpi
-* 
-* 
-* 
+
 
 
 
